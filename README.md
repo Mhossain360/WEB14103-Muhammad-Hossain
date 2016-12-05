@@ -1,14 +1,14 @@
 # WEB14103-Muhammad-Hossain
 ##BLOG
 ## Eyebombing
-![](http://fourthfloor.raveweb.net/mhossain/2016/10/12/eyebombing-1-0/)
-
 [Eyebombing](http://fourthfloor.raveweb.net/mhossain/2016/10/12/eyebombing-1-0/)
 
 ## One Tweet
-![](http://fourthfloor.raveweb.net/mhossain/2016/12/02/one-tweet/)
-## One Twitte Presentations
-![](https://www.emaze.com/@AWLTQLOQ/one-twitte)
+[One tweet](http://fourthfloor.raveweb.net/mhossain/2016/12/02/one-tweet/)
+
+## One Tweet Presentations
+[One tweet presentation](https://www.emaze.com/@AWLTQLOQ/one-twitte)
+
 ## Union Hack
 ![](http://fourthfloor.raveweb.net/mhossain/2016/10/26/union-hack/)
 ## Formative Assessment 
